@@ -2400,8 +2400,6 @@ alitui.weibo.com
 alitx963.com
 alixixi.com
 aliyoo999.com
-aliyuncss.com
-aliyunxin.com
 allbeauty.com.tw
 alllget.com
 allluck.cn
@@ -2718,7 +2716,6 @@ backchina.com
 backchina.com
 backchina.com
 backchina.com
-badding.oss-ap-southeast-1.aliyuncs.com
 badmintoncn.com
 badmintoncn.com
 badmintoncn.com
@@ -2740,17 +2737,10 @@ baidulao.com
 baiduspider1.cn
 baidusu.com
 baidu-taobao-av.com
-baidu-taobao-av.com
-baidu-taobao-av.com
-baidu-taobao-av.com
-baiduyoukualiyun.com
 baiduyubaidu.com
 baiduyun.wiki
 baifen.music.baidu.com
 baike567.com
-baike.baidu.com
-baike.com
-baike.com
 baishuku.com
 baisuijk.com
 baitaiad.com
@@ -3355,7 +3345,7 @@ caredaily.me
 carexpert.com.tw
 carexpert.com.tw
 cari.com.my
-~car.kdslife.com
+car.kdslife.com
 carnoc.com
 carousell.com
 car.pchome.com.tw
@@ -3376,7 +3366,7 @@ cartoonmad.com
 catbox.moe
 cathaycentury.com
 cavcz.com
-~cbachina.sports.sohu.com
+cbachina.sports.sohu.com
 cb.baidu.com
 cb.baidu.com
 cb.baidu.com
@@ -5438,7 +5428,6 @@ feng.com
 feng.com
 fenggejiaju.com
 fenghuo.in
-fenglan.oss-cn-shenzhen.aliyuncs.com
 fengniao.com
 fengxiangstore.com
 fengyelin.net
@@ -5588,7 +5577,6 @@ fqtra.com
 fqzds.com
 fragment.firefoxchina.cn
 frdic.com
-free-cdn.oss-cn-shanghai.aliyuncs.com
 freecodecamp.cn
 free.com.tw
 freehao123.com
@@ -6011,9 +5999,6 @@ goodgz.cn
 goodinfo.tw
 goods.tudou.com
 goodwold.top
-googleadsl.com
-googlealiyun.cn
-google-analytics.com
 googlespider1.cn
 googletagmanager.com
 googletagmanager.com
@@ -7772,7 +7757,6 @@ jp2468.com
 jp2468.com
 jpfans.com
 jpfans.com
-jpg1.oss-cn-beijing.aliyuncs.com
 jq.131458.com
 jq22.com
 jqpvv.cn
@@ -8912,7 +8896,6 @@ mg.32r.com
 mgbbs.cn
 mg.glwxw.net
 mgsue.cn
-mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 mgtv.com
 mgtv.com
 mgwcn.com
@@ -9621,7 +9604,6 @@ o1.jyjyj.cn
 o6uea.cn
 oacustom.com
 oa.hinews.cn
-oa-panther.data.aliyun.com
 obboob.cn
 obeip.com
 obj9.cn
@@ -9705,7 +9687,6 @@ ooqiu.com
 opdown.com
 opdown.com
 open8.cn
-openad.oss-cn-shanghai.aliyuncs.com
 opengam.com
 open-open.com
 openxt.cn
@@ -9755,7 +9736,6 @@ oschina.net
 oschina.net
 osidf.xyz
 osndy.com
-oss-ap-southeast-1.aliyuncs.com
 osvp2.cn
 ottawazine.com
 ottawazine.com
@@ -10958,7 +10938,6 @@ shaoxing.com.cn
 shaoxing.com.cn
 shaqm.com
 shaque.vip
-shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 share44.com
 share44.com
 share.baidu.com
@@ -11096,7 +11075,6 @@ sinolub.com
 sinolub.com
 sino-seve.com
 site.baidu.com
-site-bk.oss-cn-shenzhen.aliyuncs.com
 sitemobia.com
 sitv.com.cn
 sixgen.cn
@@ -12427,7 +12405,6 @@ vhpxa.top
 vi1.souid.com
 vichc.com
 victorjx.com
-video231.oss-cn-beijing.aliyuncs.com
 videojj.com
 videojj.com
 videojj.com
@@ -13259,8 +13236,6 @@ xinhuanet.com
 xinhuanet.com
 xinji2.com
 xinjs.cn
-xinjscn.oss-cn-hangzhou.aliyuncs.com
-xinjscn.oss-cn-hangzhou.aliyuncs.com
 xinju.cc
 xinku.org
 xinlongrubber.com
@@ -13931,7 +13906,6 @@ yy58ju.com
 yy6080.cn
 yy8090.vip
 yybos.com.cn
-yybx.oss-cn-hangzhou.aliyuncs.com
 yy.com
 yy.com
 yyeks.com
@@ -14142,7 +14116,6 @@ zhuankebar.com
 zhuanrangyun.cn
 zhuanyule.cn
 zhuanzhuzibu.com
-zhuashi.oss-cn-beijing.aliyuncs.com
 zhuba8.com
 zhudiaosz.com
 zhufushuo.com
@@ -14330,12 +14303,6 @@ zyzjpx.cn
 zz123.com
 zzad.com
 zzalkk.com
-zzbaike.com
-zzbaike.com
-zzbaike.com
-zzbaike.com
-zzbaike.com
-zzbaike.com
 zzbaike.com
 zzbaowen.com
 zzbya.xyz
