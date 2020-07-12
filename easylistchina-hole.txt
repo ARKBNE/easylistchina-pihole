@@ -1234,7 +1234,6 @@ kddtri.cn
 kdly.net
 kdqoehj.top
 kefeng56.com
-kejet.$third-party
 kele4.com
 keydot.net
 keyrun.cn
@@ -2376,7 +2375,6 @@ zzsssy.com
 zzwflxs.com
 zzyonghao.com
 1024mzs.pw
-1024wanzhai.$popup
 133gp.com
 76fengyun.com
 7wkw.com
@@ -2433,7 +2431,6 @@ ppys.com
 000001.azureedge.net
 000b.info
 005.tv
-005.tv:60000
 007.mx
 007ds.com
 007hd.com
@@ -2581,7 +2578,7 @@ ppys.com
 23pili.com
 23sc.cn
 241hs.com
-24cmm.com:8888
+24cmm.com
 24mn.me
 2500sz.com
 250sy.cc
@@ -2607,7 +2604,7 @@ ppys.com
 310v.com
 310v.com
 315che.com
-31bmm.com:8888
+31bmm.com
 31vcd.com
 32xp.com
 333tv.com
@@ -2783,20 +2780,16 @@ ppys.com
 56ads.com
 56img.com
 56img.com
-56rmm.com:8888
+56rmm.com
 576tv.com
 57fx.com
 57see.com
 57sehua.com
-58.218.200.135:8081
-58.com
-58.com
-58.com
 5888.tv
 58cdn.com.cn
 58cdn.com.cn
 58file.com
-59.36.101.209:888
+59.36.101.209
 591hx.com
 591hx.com
 591hx.com
@@ -2840,7 +2833,7 @@ ppys.com
 614514.com
 62422.cn
 62mao.com
-63007.com:82
+63007.com
 63ef.com
 63ys.com
 64.120.16.146
@@ -2873,7 +2866,6 @@ ppys.com
 6ped2nd3yp.com
 6tj.com
 6vhao.tv
-70.86.24.120:8060
 70822.com
 70mao.com
 70mao.com
@@ -2882,7 +2874,7 @@ ppys.com
 717dyi.com
 717dyi.com
 717dyi.com
-71bmm.com:8888
+71bmm.com
 71xe.com
 71xe.com
 71xe.com
@@ -2890,11 +2882,9 @@ ppys.com
 71xe.com
 726dy.com
 733.so
-75.125.41.29:8080
-76.73.85.179
 76fengyun.com
 76fengyun.com
-76wmm.com:8888
+76wmm.com
 76xh.com
 76xh.com
 775mz.com
@@ -2966,14 +2956,7 @@ ppys.com
 90bifen.net
 90mh.com
 90oo.com
-90oo.com
-90oo.com
-90oo.com
-90oo.com
-90oo.com
-90oo.com
-90oo.com
-90vs.com:3389
+90vs.com
 90zy.cn
 91.com
 918999.com
@@ -4354,7 +4337,7 @@ iabao.com
 iads.xinmin.cn
 iapolo.com
 iask.ca
-iball1990.com:897
+iball1990.com
 ibf.tw
 ibkda.com
 ibkda.com
@@ -4983,7 +4966,7 @@ mkd88.cc
 mm.nwell.net
 mm111.net
 mm387.com
-mm7920.com:8888
+mm7920.com
 mmonly.cc
 mmsao.me
 mmtalk.net
@@ -5325,7 +5308,7 @@ pythontab.com
 pythontab.com
 pythontab.com
 q38.xyz
-qayqa.com:6868
+qayqa.com
 qcmlw.com
 qcvf.ifeng.com
 qd.x4399.com
@@ -5570,7 +5553,8 @@ shimo.im
 shoudian.org
 shouji.com.cn
 shouyoutv.com
-showhaotu.$domain=18board.com|18p2p.com
+18board.com
+18p2p.com
 shspdt.com
 shufazidian.com
 shufazidian.com
@@ -5783,7 +5767,7 @@ tianyaui.com
 tieba.baidu.com
 tieba.baidu.com
 tiebapic.baidu.com
-tietuku.$domain=papa1024.com
+papa1024.com
 tietuku.com
 tietuku.com
 tiexue.net
@@ -6140,7 +6124,7 @@ xdnice.com
 xdowns.com
 xdyjt.com
 xdytt.com
-xfsub.com:88
+xfsub.com
 xgdy8.com
 xghylt.com
 xgmeizi.com
@@ -6368,7 +6352,7 @@ ytbbs.com
 yuanbao777.com
 yuesp.com
 yueyuyy.com
-yueyuyy.com:350
+yueyuyy.com
 yui-nya.com
 yui-nya.com
 yundaquan.com
@@ -6609,12 +6593,9 @@ huarenjie.com
 eastmoney.com
 elecfans.com
 yunlaige.com
-yunlaige.com
-airav.cc
 airav.cc
 th7.cn
 aiyuke.com
-qzone.qq.com
 zhijia.com
 iis7.com
 huarenjie.com
@@ -6740,12 +6721,9 @@ ali213.net
 shenchuang.com
 aizhan.com
 liisex.com
-qzone.qq.com
 dmzj.com
 dmzj.com
 hao123.com
-qzone.qq.com
-qzone.qq.com
 jdbbs.com
 txahz.com
 wx.sina.com.cn
@@ -6940,7 +6918,6 @@ splaybow.com
 rfidworld.com.cn
 nmgnews.com.cn
 twpkinfo.com
-qzone.qq.com
 3boys2girls.com
 eeyy.cc
 chem99.com
@@ -7194,7 +7171,6 @@ qiyeku.com
 sm.cn
 windows7en.com
 chinabidding.cn
-58.com
 520call.me
 pchome.net
 mm-cg.com
@@ -7670,7 +7646,6 @@ xitongzhijia.net
 hao.360.cn
 duba.com
 huaban.com
-qzone.qq.com
 wendu.cn
 10jqka.com.cn
 blog.
@@ -8177,7 +8152,6 @@ pilifx.com
 gugeys.cc
 159i.com
 gufengmh.com
-qzone.qq.com
 1111.baidu.com
 fanyi.baidu.com
 keywin.org
@@ -8460,7 +8434,6 @@ longzhu.com
 firefoxchina.cn
 52ch.net
 zhujiboke.com
-qzone.qq.com
 dm5.com
 dm5.com
 fpdisplay.com
@@ -8727,7 +8700,6 @@ epinv.com
 shulink.com
 sinolub.com
 2345.com
-58.com
 8264.com
 huaban.com
 fanyi.baidu.com
@@ -8847,7 +8819,6 @@ acc39.com
 so.com
 ddooo.com
 115.com
-qzone.qq.com
 gucheng.com
 gucheng.com
 xiazaiba.com
@@ -8951,7 +8922,6 @@ yxdown.com
 pcsoft.com.cn
 putclub.com
 vpsdx.com
-58.com
 97aa1.com
 runningmanzx.com
 doubibackup.com
@@ -9287,7 +9257,6 @@ rsdown.cn
 qunar.com
 opdown.com
 uimaker.com
-58.com
 kpzpw.com
 huaren.tv
 huaren.tv
@@ -9573,7 +9542,6 @@ sgamer.com
 firefox.com.cn
 www.17173.com
 19lou.com
-qzone.qq.com
 hqew.com
 pconline.com.cn
 av.movie
@@ -9806,7 +9774,6 @@ shuowan.com
 duba.com
 uu114.cn
 hmog.me
-qzone.qq.com
 cjn.cn
 zol.com.cn
 pupudy.com
@@ -10070,7 +10037,6 @@ chromecj.com
 srzc.com
 srzc.com
 bilibili.com
-qzone.qq.com
 makaidong.com
 hy5.com.cn
 hy5.com.cn
@@ -10441,7 +10407,6 @@ dmzj.com
 dzbhdm.com
 mtrend.cn
 jinti.com
-58.com
 wnacg.com
 boke112.com
 enjoymore.fun
@@ -10734,7 +10699,6 @@ mail.126.com
 mail.126.com
 mail.126.com
 anoneko.com
-58.com
 mail.126.com
 my0511.com
 pixnet.net
@@ -10776,7 +10740,6 @@ mail.126.com
 vod1769.com
 ettoday.net
 makepolo.com
-58.com
 lenovo.com.cn
 lenovo.com.cn
 megatime.com.tw
@@ -11330,7 +11293,6 @@ ygo-sem.cn
 520cc.cc
 5278.cc
 52zy.com
-58.com
 58b.tv
 58b.tv
 58cdn.com.cn
@@ -11341,10 +11303,7 @@ ygo-sem.cn
 5w8.in
 5w8s.com
 5w8s.com
-61.164.108.184
-70.86.24.120:8060
-75.125.41.29:8080
-795pao.com:88
+795pao.com
 85po.com
 85porn.net
 88box.com
@@ -12802,7 +12761,7 @@ xuehongxs.com
 2q5p.cn
 2scjbg.com
 2shoushi.com
-2txt.cc:8862
+2txt.cc
 2zm4.cn
 30sy.com
 31xiaoshuo.org
@@ -12850,7 +12809,7 @@ xuehongxs.com
 605296.com
 606w.cn
 609623.com
-63xs.com:8016
+63xs.com
 64ri.cn
 64si.com
 66992.top
@@ -14327,7 +14286,7 @@ xswfkco.cn
 xsyouwei.cn
 xszysc.com
 xt725.cn
-xuehongxs.com:8862
+xuehongxs.com
 xujx8.com
 xunhuaji.cn
 xurizhongguo.cn
